@@ -2,7 +2,7 @@
 Repository for the firs home work on Dex2.0 course
 
 ## Part1: installation
-![image](https://github.com/user-attachments/assets/2f044e80-3af7-4809-bf2c-7b0e929628e9)
+![part1](images/part1.PNG)
 
 
 ## Par2: Linux directory and filecreation
