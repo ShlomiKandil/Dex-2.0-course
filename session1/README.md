@@ -21,7 +21,8 @@ Repository for the firs home work on Dex2.0 course
   - find command:  
     ![image](https://github.com/user-attachments/assets/08cf93f3-920b-440b-8ca7-208a51d87678)
   - find files modified within the last 7 days:  
-    ![image](https://github.com/user-attachments/assets/796d1e04-30d7-4219-8734-a545d9ef7995)
+    <img width="416" alt="part3-2-b" src="https://github.com/user-attachments/assets/2e0f46f9-795c-4176-9362-b4f90cdaa39f">
+
 
 
 
