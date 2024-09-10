@@ -10,7 +10,8 @@ Repository for the firs home work on Dex2.0 course
     ![Create directory structure](images/part2_1.PNG)
     
   - Add content to file:
-    ![image](https://github.com/user-attachments/assets/af16caf9-e5bb-421f-a2dc-9f46a509f817)
+    - echo mode:  
+      ![echo mode](images/part2_2_a.PNG)
     ![image](https://github.com/user-attachments/assets/064fbb17-84e7-4f03-b6bc-78c66ec483ce)
     ![image](https://github.com/user-attachments/assets/e79c89f4-4da7-4519-9aac-e4d333e55463)
 
