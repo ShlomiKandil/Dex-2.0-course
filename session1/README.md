@@ -11,8 +11,8 @@ Repository for the firs home work on Dex2.0 course
     
   - Add content to file:
     - echo mode:  
-      ![echo mode](images/part2_2_a.PNG)
-    - vi mode
+      ![echo mode](images/part2_2_a.PNG)  
+    - vi mode  
       ![vi mode](images/part2_2_b.PNG)
       ![vi mode](images/part2_2_b.PNG)
 
