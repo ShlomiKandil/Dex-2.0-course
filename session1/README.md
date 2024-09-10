@@ -12,9 +12,9 @@ Repository for the firs home work on Dex2.0 course
   - Add content to file:
     - echo mode:  
       ![echo mode](images/part2_2_a.PNG)
-    ![image](https://github.com/user-attachments/assets/064fbb17-84e7-4f03-b6bc-78c66ec483ce)
-    ![image](https://github.com/user-attachments/assets/e79c89f4-4da7-4519-9aac-e4d333e55463)
-
+    - vi mode
+      ![vi mode](images/part2_2_b.PNG)
+      ![vi mode](images/part2_2_b.PNG)
 
 ## part 3: Using grep and find command
   - grep command:  
