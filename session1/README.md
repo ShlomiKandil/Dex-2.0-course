@@ -1,4 +1,4 @@
-# Dex2HomeWork1
+# Session 1 homework
 Repository for the firs home work on Dex2.0 course
 
 ## Part1: installation
