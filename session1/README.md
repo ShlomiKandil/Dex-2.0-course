@@ -18,7 +18,7 @@ Repository for the firs home work on Dex2.0 course
 
 ## part 3: Using grep and find command
   - grep command:  
-    ![image](https://github.com/user-attachments/assets/fb0b0037-06e7-4a36-81c7-1d8092344b8b)
+    ![grep command](images/part3_1.PNG)
   - find command:  
     ![find command](images/part3_2_a.PNG)
   - find files modified within the last 7 days:  
