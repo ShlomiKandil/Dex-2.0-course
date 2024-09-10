@@ -14,7 +14,7 @@ Repository for the firs home work on Dex2.0 course
       ![echo mode](images/part2_2_a.PNG)  
     - vi mode  
       ![vi mode](images/part2_2_b.PNG)
-      ![vi mode](images/part2_2_b.PNG)
+      ![vi mode](images/part2_2_bb.PNG)
 
 ## part 3: Using grep and find command
   - grep command:  
