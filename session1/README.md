@@ -7,7 +7,7 @@ Repository for the firs home work on Dex2.0 course
 
 ## Par2: Linux directory and filecreation
   - Create directory structure:
-    ![image](https://github.com/user-attachments/assets/06c36273-403f-4098-b749-0fdc6cb045dc)
+    ![Create directory structure](images/part2_1.PNG)
     
   - Add content to file:
     ![image](https://github.com/user-attachments/assets/af16caf9-e5bb-421f-a2dc-9f46a509f817)
