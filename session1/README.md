@@ -21,5 +21,5 @@ Repository for the firs home work on Dex2.0 course
   - find command:  
     ![image](https://github.com/user-attachments/assets/08cf93f3-920b-440b-8ca7-208a51d87678)
   - find files modified within the last 7 days:  
-    ![bla](images/part3_2_b.PNG)
+    ![find files modified within the last 7 days](images/part3_2_b.PNG)
     
