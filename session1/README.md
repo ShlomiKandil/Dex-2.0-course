@@ -24,7 +24,7 @@ Repository for the firs home work on Dex2.0 course
     ![bla](../images/part3-2-b.png)
     ![bla](../images/part3-2-b.png)
     ![bla](/images/part3-2-b.png)
-    ![bla](images/part3-2-b.png)
+    ![bla](images/part3_2_b.png)
     ![bla](part3-2-b.png)
 
     
