@@ -16,7 +16,9 @@ Architecture of a validation users website for banks.
     It also gives is the ability to suite DB to the service needs.
     
 ## Model - observability
-
-## Model - integration
+    Will use splunk for data analyzing and dashboards.
     
+## Model - integration
+    - S3 for storage
+    - kafka for events and crtical issues like payments.
 
