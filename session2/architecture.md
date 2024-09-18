@@ -5,9 +5,9 @@ Architecture of a validation users website for banks.
     I would use the Decompose by business capability to define services. This is how we get 
     a loosely coupled services which is very important.
     microservices:
-        -1.
-        -2. 
-        -3.
+        - IAM service
+        - 
+        -
 ## Model - db
 
 ## Model - observability
