@@ -1,0 +1,10 @@
+version: "3"
+services:
+  web:
+    image: dockerhtml
+    ports:
+      - 8080:80
+    depends_on:
+      - redis
+  redis:
+    image: redis
